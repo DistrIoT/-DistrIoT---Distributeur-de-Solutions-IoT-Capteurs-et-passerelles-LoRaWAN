@@ -8,7 +8,7 @@ Dans un monde où la connectivité intelligente est devenue essentielle pour tra
 
 Notre mission est de fournir aux intégrateurs, revendeurs et industriels les outils technologiques nécessaires pour réussir leur transition vers l’Internet des Objets (IoT). Forts d’une expertise pointue en électronique, RF et connectivité, nous proposons des produits certifiés et fiables, conçus pour assurer performance et robustesse dans des environnements exigeants.
 
-Vous pouvez découvrir notre univers sur notre [site web officiel](#) ou suivre nos actualités sur notre page [LinkedIn](#).
+Découvrez notre univers sur notre [site web officiel](https://distriot.com) ou suivez nos actualités sur notre page [LinkedIn](https://www.linkedin.com/company/distriot/?viewAsMember=true) et sur [X](https://x.com/DistrIoT).
 
 ## Notre Engagement : L’Excellence Technologique et l’Innovation
 
@@ -56,6 +56,6 @@ Le secteur de l’IoT évolue rapidement, et nous veillons à rester en phase av
 
 DistrIoT se distingue par son engagement envers l’excellence et l’innovation dans le domaine des solutions IoT. En nous associant avec des marques de renom telles que **RakWireless**, **Browan**, **Netvox**, **Atomsenses**, **Dragino** et **Seeed Studio**, nous vous proposons un panel complet de produits pour relever les défis de la connectivité moderne.
 
-Pour en savoir plus sur nos produits et services, rendez-vous sur notre [site web](#) et suivez-nous sur [LinkedIn](#). Ensemble, construisons l’infrastructure de demain, où chaque capteur, chaque passerelle et chaque solution contribue à un monde plus intelligent et interconnecté.
+Pour en savoir plus sur nos produits et services, rendez-vous sur notre [site web officiel](https://distriot.com) et suivez-nous sur [LinkedIn](https://www.linkedin.com/company/distriot/?viewAsMember=true) ainsi que sur [X](https://x.com/DistrIoT). Ensemble, construisons l’infrastructure de demain, où chaque capteur, chaque passerelle et chaque solution contribue à un monde plus intelligent et interconnecté.
 
 **DistrIoT – Connecter l’avenir, un dispositif à la fois.**
