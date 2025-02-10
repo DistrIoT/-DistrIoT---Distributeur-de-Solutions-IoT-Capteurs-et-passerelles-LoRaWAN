@@ -8,7 +8,7 @@ Dans un monde où la connectivité intelligente est devenue essentielle pour tra
 
 Notre mission est de fournir aux intégrateurs, revendeurs et industriels les outils technologiques nécessaires pour réussir leur transition vers l’Internet des Objets (IoT). Forts d’une expertise pointue en électronique, RF et connectivité, nous proposons des produits certifiés et fiables, conçus pour assurer performance et robustesse dans des environnements exigeants.
 
-Vous pouvez découvrir notre univers sur notre [site web officiel](#https://www.distriot.com/) ou suivre nos actualités sur notre page [LinkedIn](#).
+Vous pouvez découvrir notre univers sur notre [site web officiel](#) ou suivre nos actualités sur notre page [LinkedIn](#).
 
 ## Notre Engagement : L’Excellence Technologique et l’Innovation
 
